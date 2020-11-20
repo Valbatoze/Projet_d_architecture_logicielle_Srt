@@ -1,0 +1,13 @@
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\obj\Debug\netcoreapp3.1\Projet d’architecture logicielle.csprojAssemblyReference.cache
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\obj\Debug\netcoreapp3.1\Projet d’architecture logicielle.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\obj\Debug\netcoreapp3.1\Projet d’architecture logicielle.AssemblyInfo.cs
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\obj\Debug\netcoreapp3.1\Projet d’architecture logicielle.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\bin\Debug\netcoreapp3.1\Projet d’architecture logicielle.exe
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\bin\Debug\netcoreapp3.1\Projet d’architecture logicielle.deps.json
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\bin\Debug\netcoreapp3.1\Projet d’architecture logicielle.runtimeconfig.json
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\bin\Debug\netcoreapp3.1\Projet d’architecture logicielle.runtimeconfig.dev.json
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\bin\Debug\netcoreapp3.1\Projet d’architecture logicielle.dll
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\bin\Debug\netcoreapp3.1\Projet d’architecture logicielle.pdb
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\obj\Debug\netcoreapp3.1\Projet d’architecture logicielle.dll
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\obj\Debug\netcoreapp3.1\Projet d’architecture logicielle.pdb
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\obj\Debug\netcoreapp3.1\Projet d’architecture logicielle.genruntimeconfig.cache

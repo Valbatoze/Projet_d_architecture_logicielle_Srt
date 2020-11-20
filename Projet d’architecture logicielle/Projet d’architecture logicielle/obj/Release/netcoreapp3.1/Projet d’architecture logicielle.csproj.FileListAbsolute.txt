@@ -1,0 +1,3 @@
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\obj\Release\netcoreapp3.1\Projet d’architecture logicielle.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\obj\Release\netcoreapp3.1\Projet d’architecture logicielle.AssemblyInfo.cs
+C:\Users\edwin\Desktop\Ynov\dote_net\Projet\Projet d’architecture logicielle\Projet d’architecture logicielle\obj\Release\netcoreapp3.1\Projet d’architecture logicielle.csproj.CoreCompileInputs.cache
