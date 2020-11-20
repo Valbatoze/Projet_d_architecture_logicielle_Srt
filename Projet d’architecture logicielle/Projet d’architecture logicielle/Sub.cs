@@ -17,9 +17,9 @@ namespace Projet_d_architecture_logicielle
             {
                 if (i != 9)
                 {
-                    Console.WriteLine(value[y]);
-                    Console.WriteLine(y);
-                    i++;
+                   // Console.WriteLine(value[y]);
+                    //Console.WriteLine(y);
+                    //i++;
                 }
             }
 
@@ -70,7 +70,7 @@ namespace Projet_d_architecture_logicielle
         {
             foreach (var item in text)
             {
-                //Console.WriteLine(item);
+                Console.WriteLine(item);
                 await Task.Delay(time);
             }
         }
